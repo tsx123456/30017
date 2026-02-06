@@ -1,0 +1,249 @@
+
+door.jpg
+size: 959,1018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 587
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 8
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 321, 2
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 640, 2
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 321, 581
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 640, 581
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 394
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 321, 388
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 640, 388
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 201
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 321, 195
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 640, 195
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+g_1
+  rotate: false
+  xy: 2, 994
+  size: 23, 22
+  orig: 25, 26
+  offset: 1, 3
+  index: -1
+g_10
+  rotate: false
+  xy: 610, 858
+  size: 285, 80
+  orig: 288, 87
+  offset: 1, 3
+  index: -1
+g_11
+  rotate: false
+  xy: 2, 790
+  size: 250, 80
+  orig: 256, 86
+  offset: 3, 3
+  index: -1
+g_12
+  rotate: false
+  xy: 533, 945
+  size: 225, 71
+  orig: 229, 76
+  offset: 2, 2
+  index: -1
+g_13
+  rotate: false
+  xy: 2, 913
+  size: 181, 76
+  orig: 188, 84
+  offset: 4, 4
+  index: -1
+g_14
+  rotate: false
+  xy: 185, 959
+  size: 125, 57
+  orig: 132, 61
+  offset: 4, 1
+  index: -1
+g_15
+  rotate: false
+  xy: 155, 991
+  size: 28, 25
+  orig: 30, 28
+  offset: 1, 1
+  index: -1
+g_2
+  rotate: true
+  xy: 27, 992
+  size: 24, 50
+  orig: 26, 54
+  offset: 1, 3
+  index: -1
+g_3
+  rotate: true
+  xy: 79, 992
+  size: 24, 74
+  orig: 26, 79
+  offset: 1, 3
+  index: -1
+g_4
+  rotate: false
+  xy: 760, 940
+  size: 114, 76
+  orig: 122, 84
+  offset: 3, 4
+  index: -1
+g_5
+  rotate: false
+  xy: 185, 872
+  size: 169, 77
+  orig: 177, 84
+  offset: 4, 3
+  index: -1
+g_6
+  rotate: false
+  xy: 312, 951
+  size: 219, 65
+  orig: 225, 70
+  offset: 4, 4
+  index: -1
+g_7
+  rotate: false
+  xy: 356, 863
+  size: 252, 80
+  orig: 258, 86
+  offset: 3, 3
+  index: -1
+g_8
+  rotate: false
+  xy: 254, 780
+  size: 286, 81
+  orig: 288, 87
+  offset: 1, 3
+  index: -1
+g_9
+  rotate: false
+  xy: 542, 774
+  size: 286, 82
+  orig: 288, 87
+  offset: 1, 2
+  index: -1
+
+door2.png
+size: 953,1049
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+13
+  rotate: true
+  xy: 760, 730
+  size: 317, 191
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+L1
+  rotate: true
+  xy: 2, 861
+  size: 186, 756
+  orig: 375, 756
+  offset: 0, 0
+  index: -1
+L2
+  rotate: true
+  xy: 2, 668
+  size: 191, 756
+  orig: 375, 756
+  offset: 0, 0
+  index: -1
+R1
+  rotate: true
+  xy: 2, 338
+  size: 328, 756
+  orig: 375, 756
+  offset: 46, 0
+  index: -1
+R2
+  rotate: true
+  xy: 2, 2
+  size: 334, 756
+  orig: 375, 756
+  offset: 41, 0
+  index: -1
+
+door3.png
+size: 378,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+door_1
+  rotate: false
+  xy: 2, 2
+  size: 374, 756
+  orig: 375, 756
+  offset: 0, 0
+  index: -1

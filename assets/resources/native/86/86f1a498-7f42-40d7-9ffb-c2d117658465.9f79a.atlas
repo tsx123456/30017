@@ -1,0 +1,188 @@
+
+hu_glow.jpg
+size: 836,803
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_00
+  rotate: false
+  xy: 2, 609
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_02
+  rotate: false
+  xy: 2, 415
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_04
+  rotate: false
+  xy: 2, 221
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_06
+  rotate: false
+  xy: 2, 27
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_08
+  rotate: true
+  xy: 128, 677
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 380, 2
+  size: 186, 169
+  orig: 190, 173
+  offset: 2, 1
+  index: -1
+light_10
+  rotate: true
+  xy: 322, 677
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_12
+  rotate: true
+  xy: 516, 677
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_14
+  rotate: false
+  xy: 710, 609
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_16
+  rotate: true
+  xy: 128, 551
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_18
+  rotate: true
+  xy: 322, 551
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_20
+  rotate: true
+  xy: 516, 551
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_22
+  rotate: false
+  xy: 710, 415
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_24
+  rotate: false
+  xy: 128, 221
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_26
+  rotate: true
+  xy: 128, 425
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_28
+  rotate: false
+  xy: 128, 27
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_30
+  rotate: true
+  xy: 322, 425
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_32
+  rotate: true
+  xy: 516, 425
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_34
+  rotate: false
+  xy: 254, 221
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_36
+  rotate: false
+  xy: 254, 27
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_38
+  rotate: true
+  xy: 380, 299
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_40
+  rotate: false
+  xy: 574, 231
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_42
+  rotate: true
+  xy: 380, 173
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_44
+  rotate: false
+  xy: 700, 221
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_46
+  rotate: false
+  xy: 574, 37
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+light_48
+  rotate: false
+  xy: 700, 27
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1

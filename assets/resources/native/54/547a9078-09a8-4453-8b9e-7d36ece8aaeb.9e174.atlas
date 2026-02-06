@@ -1,0 +1,27 @@
+
+bg.png
+size: 2102,1506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG21
+  rotate: true
+  xy: 2, 2
+  size: 750, 1346
+  orig: 750, 1346
+  offset: 0, 0
+  index: -1
+BG3
+  rotate: true
+  xy: 2, 754
+  size: 750, 1346
+  orig: 750, 1346
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 1350, 172
+  size: 750, 1332
+  orig: 750, 1334
+  offset: 0, 2
+  index: -1

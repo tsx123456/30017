@@ -1,0 +1,13 @@
+
+ui_auto.png
+size: 125,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_00
+  rotate: false
+  xy: 2, 2
+  size: 121, 41
+  orig: 125, 125
+  offset: 3, 42
+  index: -1

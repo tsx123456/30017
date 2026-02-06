@@ -1,0 +1,13 @@
+
+ui_glow.png
+size: 464,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_01
+  rotate: false
+  xy: 2, 2
+  size: 460, 57
+  orig: 460, 58
+  offset: 0, 1
+  index: -1
